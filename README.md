@@ -22,7 +22,7 @@ Worley MI, Setiawan L, and Hariharan IK. Development. 2013 [(link)](https://jour
 ---
 
 * **Regeneration and transdetermination in *Drosophila* imaginal discs.** \
-Worley MI, Setiawan L, and Hariharan IK. Annu Rev Genet. 2012 [(link)](https://pubmed.ncbi.nlm.nih.gov/22934642/)
+Worley MI, Setiawan L, and Hariharan IK. Annu Rev Genet. 2012 [(link)](https://www.annualreviews.org/doi/10.1146/annurev-genet-110711-155637)
 
 ---
 
