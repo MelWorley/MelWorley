@@ -4,23 +4,37 @@
 Recent publications: 
 
 ---
-Single-cell transcriptomics of the Drosophila wing disc reveals instructive epithelium-to-myoblast interactions.
-Everetts*, Worley*, Yasutomi, Yosef, and Hariharan. Elife. 2021 alt text alt text
+
+* Single-cell transcriptomics of the Drosophila wing disc reveals instructive epithelium-to-myoblast interactions.
+Everetts*, Worley*, Yasutomi, Yosef, and Hariharan. Elife. 2021 [(link)](https://elifesciences.org/articles/61276)
 
 ---
 
-Membrane potential regulates Hedgehog signalling in the Drosophila wing imaginal disc.
-Emmons-Bell and Hariharan. EMBO Rep. 2021 alt text
+* CtBP impedes JNK- and Upd/STAT-driven cell fate misspecifications in regenerating Drosophila imaginal discs. \ 
+Worley, Alexander, and Hariharan. Elife. 2018 [(link)](https://elifesciences.org/articles/30391)
 
 ---
 
-The Hippo pathway coactivator Yorkie can reprogram cell fates and create compartment-boundary-like interactions at clone margins. Bairzin, Emmons-Bell, and Hariharan. Sci Adv. 2020 alt text
+* TIE-DYE: a combinatorial marking system to visualize and genetically manipulate clones during development in Drosophila melanogaster. Worley, Setiawan, and Hariharan. Development. 2013 [(link)](https://journals.biologists.com/dev/article/140/15/3275/45847/TIE-DYE-a-combinatorial-marking-system-to)
 
 ---
-Damage-responsive, maturity-silenced enhancers regulate multiple genes that direct regeneration in Drosophila.
-Harris, Stinchfield, Nystrom, McKay, and Hariharan. Elife. 2020 alt text
+
+* TIE-DYE: a combinatorial marking system to visualize and genetically manipulate clones during development in Drosophila melanogaster.\
+ Worley, Setiawan, and Hariharan. Development. 2013 [(link)](https://journals.biologists.com/dev/article/140/15/3275/45847/TIE-DYE-a-combinatorial-marking-system-to)
 
 ---
+
+* Regeneration and transdetermination in Drosophila imaginal discs. \
+Worley MI, Setiawan L, Hariharan IK. Annu Rev Genet. 2012 [(link)](https://pubmed.ncbi.nlm.nih.gov/22934642/)
+
+---
+
+* Regenerative growth in Drosophila imaginal discs is regulated by Wingless and Myc.
+Smith-Bolton RK, Worley MI, Kanda H, Hariharan IK. Dev Cell. 2009 [(link)](https://www.cell.com/developmental-cell/fulltext/S1534-5807(09)00177-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1534580709001774%3Fshowall%3Dtrue)
+
+---
+
+
 
 <!--
 **MelWorley/MelWorley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
