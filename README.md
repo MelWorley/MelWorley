@@ -4,8 +4,7 @@
 Recent publications [(Pubmed)](https://pubmed.ncbi.nlm.nih.gov/?term=Worley+MI&show_snippets=off&sort=pubdate) / [(website)](https://sites.google.com/view/melanieworley/home?authuser=0/): 
  
 ---
-[![alt text](https://github.com/MelWorley/work_in_progress/blob/main/images/GitHub-Mark-32px.png?raw=true)](https://github.com/HariharanLab/Everetts_Worley_Yasutomi)
-![alt text](https://github.com/MelWorley/work_in_progress/blob/main/images/cell_atlas.png?raw=true) 
+![alt text](https://github.com/MelWorley/work_in_progress/blob/main/images/cell_atlas.png?raw=true) [![alt text](https://github.com/MelWorley/work_in_progress/blob/main/images/GitHub-Mark-32px.png?raw=true)](https://github.com/HariharanLab/Everetts_Worley_Yasutomi)
 
 * **Single-cell transcriptomics of the *Drosophila* wing disc reveals instructive epithelium-to-myoblast interactions.**  \
 Everetts* NE, Worley* MI, Yasutomi R, Yosef N, and Hariharan IK. Elife. 2021 [(link)](https://elifesciences.org/articles/61276)
