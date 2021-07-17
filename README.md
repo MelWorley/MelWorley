@@ -5,7 +5,7 @@ Recent publications:
 
 ---
 
-* Single-cell transcriptomics of the *Drosophila* wing disc reveals instructive epithelium-to-myoblast interactions.
+* Single-cell transcriptomics of the *Drosophila* wing disc reveals instructive epithelium-to-myoblast interactions.\
 Everetts*, Worley*, Yasutomi, Yosef, and Hariharan. Elife. 2021 [(link)](https://elifesciences.org/articles/61276)
 
 ---
@@ -24,7 +24,7 @@ Worley MI, Setiawan L, Hariharan IK. Annu Rev Genet. 2012 [(link)](https://pubme
 
 ---
 
-* Regenerative growth in *Drosophila* imaginal discs is regulated by Wingless and Myc.
+* Regenerative growth in *Drosophila* imaginal discs is regulated by Wingless and Myc.\
 Smith-Bolton RK, Worley MI, Kanda H, Hariharan IK. Dev Cell. 2009 [(link)](https://www.cell.com/developmental-cell/fulltext/S1534-5807(09)00177-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1534580709001774%3Fshowall%3Dtrue)
 
 ---
