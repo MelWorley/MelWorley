@@ -15,7 +15,7 @@ Worley, Alexander, and Hariharan. Elife. 2018 [(link)](https://elifesciences.org
 
 ---
 
-* TIE-DYE: a combinatorial marking system to visualize and genetically manipulate clones during development in *Drosophila melanogaster*. \ 
+* TIE-DYE: a combinatorial marking system to visualize and genetically manipulate clones during development in *Drosophila melanogaster*.\ 
 Worley, Setiawan, and Hariharan. Development. 2013 [(link)](https://journals.biologists.com/dev/article/140/15/3275/45847/TIE-DYE-a-combinatorial-marking-system-to)
 
 ---
