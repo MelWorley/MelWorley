@@ -6,7 +6,6 @@ Recent publications [(Pubmed)](https://pubmed.ncbi.nlm.nih.gov/?term=Worley+MI&s
 
 ![alt text](https://github.com/MelWorley/work_in_progress/blob/main/images/cell_atlas.png?raw=true)
 
----
 
 * **Single-cell transcriptomics of the *Drosophila* wing disc reveals instructive epithelium-to-myoblast interactions.**  \
 Everetts* NE, Worley* MI, Yasutomi R, Yosef N, and Hariharan IK. Elife. 2021 [(link)](https://elifesciences.org/articles/61276)
