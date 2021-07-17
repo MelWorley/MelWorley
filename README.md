@@ -1,7 +1,7 @@
 # Single cell analysis of developing and regenerating epithelial tissues 
 
 
-Recent publications [(Pubmed)](https://pubmed.ncbi.nlm.nih.gov/?term=Worley+MI&show_snippets=off&sort=pubdate) / [(website)](https://sites.google.com/view/melanieworley/home?authuser=0/): 
+Recent publications [(Pubmed)](https://pubmed.ncbi.nlm.nih.gov/?term=Worley+MI&show_snippets=off&sort=pubdate) / [(Website)](https://sites.google.com/view/melanieworley/home?authuser=0/): 
  
 
 
