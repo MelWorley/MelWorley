@@ -16,7 +16,7 @@ Everetts* NE, Worley* MI, Yasutomi R, Yosef N, and Hariharan IK. Elife. 2021 [![
 ---
 
 * **CtBP impedes JNK- and Upd/STAT-driven cell fate misspecifications in regenerating *Drosophila* imaginal discs.**   \
-Worley MI, Alexander LA, and Hariharan IK. Elife. 2018 [(link)](https://elifesciences.org/articles/30391)
+Worley MI, Alexander LA, and Hariharan IK. Elife. 2018 [![alt text](https://github.com/MelWorley/work_in_progress/blob/main/images/elife.png?)](https://elifesciences.org/articles/30391)
 
 ---
 
