@@ -6,7 +6,7 @@ Recent publications:
 ---
 
 * Single-cell transcriptomics of the *Drosophila* wing disc reveals instructive epithelium-to-myoblast interactions.\
-Everetts*, Worley*, Yasutomi, Yosef, and Hariharan. Elife. 2021 [(link)](https://elifesciences.org/articles/61276)
+Everetts*, ** Worley* **, Yasutomi, Yosef, and Hariharan. Elife. 2021 [(link)](https://elifesciences.org/articles/61276)
 
 ---
 
