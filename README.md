@@ -10,7 +10,7 @@ Everetts*, Worley*, Yasutomi, Yosef, and Hariharan. Elife. 2021 [(link)](https:/
 
 ---
 
-* CtBP impedes JNK- and Upd/STAT-driven cell fate misspecifications in regenerating *Drosophila* imaginal discs. \ 
+* CtBP impedes JNK- and Upd/STAT-driven cell fate misspecifications in regenerating *Drosophila* imaginal discs.\ 
 Worley, Alexander, and Hariharan. Elife. 2018 [(link)](https://elifesciences.org/articles/30391)
 
 ---
