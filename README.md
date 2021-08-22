@@ -16,12 +16,12 @@ Everetts* NE, Worley* MI, Yasutomi R, Yosef N, and Hariharan IK. Elife. 2021 [ (
 ---
 
 * **CtBP impedes JNK- and Upd/STAT-driven cell fate misspecifications in regenerating *Drosophila* imaginal discs.**   \
-Worley MI, Alexander LA, and Hariharan IK. Elife. 2018 [  (link) ![alt text](https://github.com/MelWorley/work_in_progress/blob/main/images/elife2.png?)](https://elifesciences.org/articles/30391)
+Worley MI, Alexander LA, and Hariharan IK. Elife. 2018 [  (link) ![alt text](https://github.com/MelWorley/work_in_progress/blob/main/images/elife2.png?)](https://elifesciences.org/articles/30391) [(Press - "When Regeneration Goes Awry" )](https://medium.com/lifes-building-blocks/when-regeneration-goes-awry-aeee2512412f)
 
 ---
 
 * **TIE-DYE: a combinatorial marking system to visualize and genetically manipulate clones during development in *Drosophila melanogaster*.**  \
-Worley MI, Setiawan L, and Hariharan IK. Development. 2013 [(link)](https://journals.biologists.com/dev/article/140/15/3275/45847/TIE-DYE-a-combinatorial-marking-system-to) [(Press - "When Regeneration Goes Awry" )](https://medium.com/lifes-building-blocks/when-regeneration-goes-awry-aeee2512412f)
+Worley MI, Setiawan L, and Hariharan IK. Development. 2013 [(link)](https://journals.biologists.com/dev/article/140/15/3275/45847/TIE-DYE-a-combinatorial-marking-system-to) 
 
 ---
 
