@@ -7,7 +7,7 @@ Recent publications [(Pubmed)](https://pubmed.ncbi.nlm.nih.gov/?term=Worley+MI&s
 ---
 
 * **Imaginal Disc Regeneration: Something Old, Something New.** \
-Worley MI, Hariharan IK. Cold Spring Harb Perspect Biol. 2021 [ (link)]  https://pubmed.ncbi.nlm.nih.gov/34872971/
+Worley MI, Hariharan IK. Cold Spring Harb Perspect Biol. 2021 [ (link)]( https://pubmed.ncbi.nlm.nih.gov/34872971/)
 
 ---
 ![alt text](https://github.com/MelWorley/work_in_progress/blob/main/images/cell_atlas.png?raw=true) 
