@@ -3,6 +3,11 @@
 
 Recent publications [(Pubmed)](https://pubmed.ncbi.nlm.nih.gov/?term=Worley+MI&show_snippets=off&sort=pubdate) / [(Website)](https://sites.google.com/view/melanieworley/home?authuser=0/): 
  
+---
+
+* **Ets21C sustains a pro-regenerative transcriptional program in blastema cells of Drosophila imaginal discs.** \  
+Worley MI, Everetts NJ, Yasutomi R, Chang RJ, Saretha S, Yosef N, Hariharan IK. Current Biology. 2022 [ (link)](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01002-8)
+
 
 ---
 
